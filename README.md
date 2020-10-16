@@ -1,2 +1,2 @@
-# CSC226_project_2
+# Bootstrap Portfolio
  Bootstrap project (jQuery Popper.js Bootstrap JS)
